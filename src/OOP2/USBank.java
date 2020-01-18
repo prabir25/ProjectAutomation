@@ -11,7 +11,7 @@ public interface USBank {
 	
 	public void mutualFunds();
 
-	public void totalFunds();
+	public void totalFund();
 
 	
 	
