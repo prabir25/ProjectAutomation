@@ -9,7 +9,7 @@ public interface USBank {
 	
 	public void transferMoney();
 	
-	public void mutualFunds();
+	public void mutualFund();
 
 	
 	
